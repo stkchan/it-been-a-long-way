@@ -6,4 +6,4 @@ print("Hello Tokyo")
 print("Hello London")
 print("Hello Bangkok")
 print("Hello Osaka")
-
+print("Hello Yamagata")
